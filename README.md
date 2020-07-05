@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## This is my .vimrc 
+but can be yours too!!!
+
+Please access [My vimrc](https://duarch.github.io/myvimirc/) website.
+
+I'm gonna explain in the easy way, how each one of vim plugins I selected will help you (or not).
+
+You copy only the part of vimrc file do you want. Or copy the entire file and remove each part as long you decide it's not useful. 
+
 
 You can use the [editor on GitHub](https://github.com/duarch/myvimirc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
