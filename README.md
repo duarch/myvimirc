@@ -7,15 +7,15 @@ I'm gonna explain in the easy way, how each one of vim plugins I selected will h
 
 You copy only the part of vimrc file do you want. Or copy the entire file and remove each part as long you decide it's not useful. 
 
+'############################################################
+            BE AWARE !!!  UNDER CONSTRUCTION
+'############################################################
 
 You can use the [editor on GitHub](https://github.com/duarch/myvimirc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## vimrc file 
 ```markdown
 Syntax highlighted code block
 
