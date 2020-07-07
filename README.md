@@ -8,7 +8,9 @@ I'm gonna explain in the easy way, how each one of vim plugins I selected will h
 You copy only the part of vimrc file do you want. Or copy the entire file and remove each part as long you decide it's not useful. 
 
 '############################################################
+
             BE AWARE !!!  UNDER CONSTRUCTION
+            
 '############################################################
 
 _____________________________________________________________
