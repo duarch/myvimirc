@@ -30,7 +30,7 @@ Bottom of the page
  - [glump.net](https://www.glump.net/_media/howto/desktop/vim-graphical-cheat-sheet-and-tutorial/vi-vim-cheat-sheet-and-tutorial.pdf)(tutorial pdf)
  - [LevelbossMike](https://github.com/LevelbossMike/vim_shortcut_wallpaper)(wallpaper)
  
-![Michael's](http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_print.png)
+![Michael's](all.png)
 
 
 
